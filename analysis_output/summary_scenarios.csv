@@ -1,0 +1,4 @@
+scenario,runs,mean_ms,mean_ms_sd,median_ms,p95_ms,max_ms,jain_fairness,exams_timeup
+A: no congestion,3,0.91,0.27,0.43,3.1,12.63,0.9398,0
+"B: congestion, no QoS",3,76.27,52.23,75.43,91.92,110.54,0.9999,0
+C: congestion + QoS,3,0.9,0.03,0.62,2.14,11.47,0.9763,0

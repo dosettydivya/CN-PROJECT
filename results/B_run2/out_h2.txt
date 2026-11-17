@@ -1,0 +1,222 @@
+Connected. 10 questions, 60 seconds.
+
+Q1. Which OSI layer does TCP work at?   (time left: 59 s)
+   A) Network
+   B) Transport
+   C) Session
+   D) Application
+   [auto] answer: C
+
+Q2. How many steps are in the TCP connection setup?   (time left: 58 s)
+   A) 2
+   B) 3
+   C) 4
+   D) 5
+   [auto] answer: B
+
+Q3. What is the default port of HTTP?   (time left: 57 s)
+   A) 21
+   B) 25
+   C) 80
+   D) 443
+   [auto] answer: C
+
+Q4. Which of these protocols is connectionless?   (time left: 56 s)
+   A) TCP
+   B) UDP
+   C) FTP
+   D) SMTP
+   [auto] answer: C
+
+Q5. Which device forwards packets between networks using IP addresses?   (time left: 56 s)
+   A) Hub
+   B) Switch
+   C) Router
+   D) Repeater
+   [auto] answer: D
+
+Q6. In SDN, which component makes the forwarding decisions?   (time left: 54 s)
+   A) Controller
+   B) Cable
+   C) NIC
+   D) Modem
+   [auto] answer: A
+
+Q7. Which protocol connects an SDN controller to a switch?   (time left: 54 s)
+   A) OpenFlow
+   B) SMTP
+   C) DNS
+   D) POP3
+   [auto] answer: B
+
+Q8. Which TCP flag is used to close a connection?   (time left: 53 s)
+   A) SYN
+   B) ACK
+   C) FIN
+   D) PSH
+   [auto] answer: C
+
+Q9. How many bits are in an IPv4 address?   (time left: 52 s)
+   A) 16
+   B) 32
+   C) 64
+   D) 128
+   [auto] answer: D
+
+Q10. Which command tests whether a host is reachable?   (time left: 52 s)
+   A) ping
+   B) cd
+   C) ls
+   D) cat
+   [auto] answer: B
+
+RESULT: you scored 4 / 10 in 8.2 s
+Average response time: 60.13 ms (max 71.54 ms) over 20 requests
+Connected. 10 questions, 60 seconds.
+
+Q1. Which OSI layer does TCP work at?   (time left: 59 s)
+   A) Network
+   B) Transport
+   C) Session
+   D) Application
+   [auto] answer: D
+
+Q2. How many steps are in the TCP connection setup?   (time left: 58 s)
+   A) 2
+   B) 3
+   C) 4
+   D) 5
+   [auto] answer: A
+
+Q3. What is the default port of HTTP?   (time left: 57 s)
+   A) 21
+   B) 25
+   C) 80
+   D) 443
+   [auto] answer: D
+
+Q4. Which of these protocols is connectionless?   (time left: 56 s)
+   A) TCP
+   B) UDP
+   C) FTP
+   D) SMTP
+   [auto] answer: C
+
+Q5. Which device forwards packets between networks using IP addresses?   (time left: 55 s)
+   A) Hub
+   B) Switch
+   C) Router
+   D) Repeater
+   [auto] answer: D
+
+Q6. In SDN, which component makes the forwarding decisions?   (time left: 54 s)
+   A) Controller
+   B) Cable
+   C) NIC
+   D) Modem
+   [auto] answer: A
+
+Q7. Which protocol connects an SDN controller to a switch?   (time left: 53 s)
+   A) OpenFlow
+   B) SMTP
+   C) DNS
+   D) POP3
+   [auto] answer: C
+
+Q8. Which TCP flag is used to close a connection?   (time left: 51 s)
+   A) SYN
+   B) ACK
+   C) FIN
+   D) PSH
+   [auto] answer: B
+
+Q9. How many bits are in an IPv4 address?   (time left: 50 s)
+   A) 16
+   B) 32
+   C) 64
+   D) 128
+   [auto] answer: C
+
+Q10. Which command tests whether a host is reachable?   (time left: 49 s)
+   A) ping
+   B) cd
+   C) ls
+   D) cat
+   [auto] answer: C
+
+RESULT: you scored 1 / 10 in 12.1 s
+Average response time: 58.15 ms (max 69.11 ms) over 20 requests
+Connected. 10 questions, 60 seconds.
+
+Q1. Which OSI layer does TCP work at?   (time left: 59 s)
+   A) Network
+   B) Transport
+   C) Session
+   D) Application
+   [auto] answer: D
+
+Q2. How many steps are in the TCP connection setup?   (time left: 58 s)
+   A) 2
+   B) 3
+   C) 4
+   D) 5
+   [auto] answer: D
+
+Q3. What is the default port of HTTP?   (time left: 57 s)
+   A) 21
+   B) 25
+   C) 80
+   D) 443
+   [auto] answer: B
+
+Q4. Which of these protocols is connectionless?   (time left: 56 s)
+   A) TCP
+   B) UDP
+   C) FTP
+   D) SMTP
+   [auto] answer: A
+
+Q5. Which device forwards packets between networks using IP addresses?   (time left: 55 s)
+   A) Hub
+   B) Switch
+   C) Router
+   D) Repeater
+   [auto] answer: C
+
+Q6. In SDN, which component makes the forwarding decisions?   (time left: 53 s)
+   A) Controller
+   B) Cable
+   C) NIC
+   D) Modem
+   [auto] answer: C
+
+Q7. Which protocol connects an SDN controller to a switch?   (time left: 52 s)
+   A) OpenFlow
+   B) SMTP
+   C) DNS
+   D) POP3
+   [auto] answer: B
+
+Q8. Which TCP flag is used to close a connection?   (time left: 50 s)
+   A) SYN
+   B) ACK
+   C) FIN
+   D) PSH
+   [auto] answer: C
+
+Q9. How many bits are in an IPv4 address?   (time left: 50 s)
+   A) 16
+   B) 32
+   C) 64
+   D) 128
+   [auto] answer: C
+
+Q10. Which command tests whether a host is reachable?   (time left: 48 s)
+   A) ping
+   B) cd
+   C) ls
+   D) cat
+   [auto] answer: C
+
+RESULT: you scored 2 / 10 in 12.0 s
+Average response time: 57.69 ms (max 71.70 ms) over 20 requests

@@ -1,0 +1,13 @@
+{
+  "scenario": "B",
+  "run": 1,
+  "desc": "congestion, controller QoS OFF",
+  "start": 1794578787.338447,
+  "end": 1794578827.4278026,
+  "students": 5,
+  "exams_per_student": 3,
+  "expected": 15,
+  "finished": 15,
+  "noise": true,
+  "noise_streams": 2
+}

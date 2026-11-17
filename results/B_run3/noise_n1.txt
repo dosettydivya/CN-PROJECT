@@ -1,0 +1,13 @@
+[  2] local 10.0.0.201 port 42236 connected with 10.0.0.100 port 5001
+------------------------------------------------------------
+Client connecting to 10.0.0.100, TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  1] local 10.0.0.201 port 42248 connected with 10.0.0.100 port 5001
+shutdown failed: Transport endpoint is not connected
+shutdown failed: Transport endpoint is not connected
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-37.1214 sec  10.1 MBytes  2.27 Mbits/sec
+[  2] 0.0000-37.1200 sec  9.97 MBytes  2.25 Mbits/sec
+[SUM] 0.0000-0.0001 sec  20.0 MBytes  1.41 Tbits/sec
+[ CT] final connect times (min/avg/max/stdev) = 10.233/10.562/10.890/0.465 ms (tot/err) = 2/0

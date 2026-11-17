@@ -1,0 +1,13 @@
+{
+  "scenario": "C",
+  "run": 3,
+  "desc": "congestion, controller QoS ON (start ryu with QOS=1)",
+  "start": 1794579606.9469435,
+  "end": 1794579637.004675,
+  "students": 5,
+  "exams_per_student": 3,
+  "expected": 15,
+  "finished": 15,
+  "noise": true,
+  "noise_streams": 2
+}
